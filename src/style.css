@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(253, 239, 227);
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
+h1,
+p {
+  text-align: center;
+}
+a {
+  margin-right: 10px;
+  color: rgb(145, 81, 8);
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
